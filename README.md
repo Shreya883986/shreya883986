@@ -1,12 +1,12 @@
-# Hi 👋, I'm Shreya Gupta
+# Hi, I'm Shreya Gupta
 
-### 🎓 BCA (Data Science) | Aspiring Data Analyst | Data Science Enthusiast | ML & Data Engineering Learner
+###  BCA (Data Science) | Aspiring Data Analyst | Data Science Enthusiast | ML & Data Engineering Learner
 
 ---
 
-## 💫 About Me
+##  About Me
 
-🚀 Final-year **BCA (Data Science)** student passionate about transforming data into actionable business insights through **Data Analytics, Machine Learning, and Data Engineering**.
+Final-year **BCA (Data Science)** student passionate about transforming data into actionable business insights through **Data Analytics, Machine Learning, and Data Engineering**.
 
 🔹 Building end-to-end analytics solutions using **Python, SQL, Power BI, Tableau, and PostgreSQL**
 
@@ -20,30 +20,30 @@
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
-### 📊 Customer Churn Prediction System
+###  Customer Churn Prediction System
 - Built an end-to-end machine learning pipeline for churn prediction
 - Performed data preprocessing, feature engineering, and model evaluation
 - Generated business insights for customer retention strategies
 
-### 🛒 E-Commerce Data Analytics & Data Warehouse
+###  E-Commerce Data Analytics & Data Warehouse
 - Designed a Star Schema Data Warehouse using PostgreSQL
 - Developed ETL pipelines for data integration and transformation
 - Created Power BI dashboards for business intelligence reporting
 
-### 📈 Retail Analytics Dashboard
+###  Retail Analytics Dashboard
 - Developed KPI dashboards for sales, inventory, and customer analytics
 - Built interactive visualizations for executive decision-making
 
-### ✨ FixiAI – AI Background Remover
+###  FixiAI – AI Background Remover
 - Developed an AI-powered image background removal application
 - Integrated cloud services, APIs, and modern web technologies
 - Built using React, Supabase, and AI APIs
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - Advanced Machine Learning
 - Deep Learning (CNNs & Computer Vision)
@@ -55,7 +55,7 @@
 
 ---
 
-## 🤝 Open to Collaborate On
+##  Open to Collaborate On
 
 - Data Analytics Projects
 - Machine Learning Applications
@@ -66,7 +66,7 @@
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -109,20 +109,20 @@
 
 ---
 
-## 🎯 Career Interests
+##  Career Interests
 
 **Data Analyst | Business Analyst | Data Scientist | Machine Learning Engineer | Analytics Engineer | Data Engineer**
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 - LinkedIn: www.linkedin.com/in/shreyagupta08
 - GitHub: https://github.com/Shreya883986
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Shreya883986&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
@@ -132,22 +132,22 @@
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Shreya883986&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
-### ✍️ Random Dev Quote
+###  Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
-### 🔝 Top Contributed Repo
+###  Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=Shreya883986&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
-⭐ **Always open to collaborating on Data Analytics, Machine Learning, Data Engineering, and AI Projects.**
+ **Always open to collaborating on Data Analytics, Machine Learning, Data Engineering, and AI Projects.**
