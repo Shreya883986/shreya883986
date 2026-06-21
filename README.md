@@ -1,24 +1,153 @@
-# 💫 About Me:
-Building end-to-end data analytics projects using Python, SQL, and Tableau<br>Sharpening my skills in predictive modeling and ETL pipeline development<br><br>Data analysis / machine learning projects (churn prediction, forecasting, anomaly detection)<br>Open-source projects involving Python, SQL, or data visualization<br><br>Deploying ML models into production-ready applications<br>Best practices for scalable data warehouse design<br><br>Advanced Machine Learning & Deep Learning (CNN, YOLO, LLM API integration)<br>Cloud platforms for data engineering and MLOps<br><br>ta Analysis, Machine Learning, Power BI/Tableau<br>My projects: customer churn analysis, e-commerce data analytics, SQL data warehouse, FixiAI (AI background remover)<br><br><br>
+# Hi 👋, I'm Shreya Gupta
 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Shreya883986&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Shreya883986&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shreya883986&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shreya883986&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shreya883986&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🎓 BCA (Data Science) | Aspiring Data Analyst | Data Science Enthusiast | ML & Data Engineering Learner
 
 ---
-[![](https://komarev.com/ghpvc/?username=Shreya883986&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+🚀 Final-year **BCA (Data Science)** student passionate about transforming data into actionable business insights through **Data Analytics, Machine Learning, and Data Engineering**.
+
+🔹 Building end-to-end analytics solutions using **Python, SQL, Power BI, Tableau, and PostgreSQL**
+
+🔹 Experienced in designing **ETL/ELT pipelines**, **data warehouses**, and interactive business dashboards
+
+🔹 Developing machine learning solutions for **Customer Churn Prediction, Sales Forecasting, Recommendation Systems, and Anomaly Detection**
+
+🔹 Exploring **Deep Learning, Computer Vision (CNN, YOLO), Generative AI, LLM API Integration, and MLOps**
+
+🔹 Passionate about solving real-world business problems through data-driven decision making
+
+---
+
+## 📌 Featured Projects
+
+### 📊 Customer Churn Prediction System
+- Built an end-to-end machine learning pipeline for churn prediction
+- Performed data preprocessing, feature engineering, and model evaluation
+- Generated business insights for customer retention strategies
+
+### 🛒 E-Commerce Data Analytics & Data Warehouse
+- Designed a Star Schema Data Warehouse using PostgreSQL
+- Developed ETL pipelines for data integration and transformation
+- Created Power BI dashboards for business intelligence reporting
+
+### 📈 Retail Analytics Dashboard
+- Developed KPI dashboards for sales, inventory, and customer analytics
+- Built interactive visualizations for executive decision-making
+
+### ✨ FixiAI – AI Background Remover
+- Developed an AI-powered image background removal application
+- Integrated cloud services, APIs, and modern web technologies
+- Built using React, Supabase, and AI APIs
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Machine Learning
+- Deep Learning (CNNs & Computer Vision)
+- YOLO Object Detection
+- LLM API Integration
+- MLOps & Model Deployment
+- Apache Airflow
+- Cloud Data Engineering (AWS, Azure, GCP)
+
+---
+
+## 🤝 Open to Collaborate On
+
+- Data Analytics Projects
+- Machine Learning Applications
+- Data Engineering & ETL Pipelines
+- Open Source Python Projects
+- Business Intelligence Dashboards
+- AI-Powered Applications
+
+---
+
+## 💻 Tech Stack
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Data Analytics & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
+### Machine Learning & AI
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### Data Engineering & Cloud
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+### Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Web Technologies
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+---
+
+## 🎯 Career Interests
+
+**Data Analyst | Business Analyst | Data Scientist | Machine Learning Engineer | Analytics Engineer | Data Engineer**
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/shreyagupta08
+- GitHub: https://github.com/Shreya883986
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Shreya883986&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shreya883986&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya883986&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Shreya883986&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=Shreya883986&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+
+⭐ **Always open to collaborating on Data Analytics, Machine Learning, Data Engineering, and AI Projects.**
