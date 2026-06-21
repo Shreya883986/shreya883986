@@ -117,8 +117,8 @@ Final-year **BCA (Data Science)** student passionate about transforming data int
 
 ##  Connect With Me
 
-- LinkedIn: www.linkedin.com/in/shreyagupta08
-- GitHub: https://github.com/Shreya883986
+- LinkedIn: https://www.linkedin.com/in/shreya-gupta-bb288126a
+- Hackerrank:  https://www.hackerrank.com/profile/sg3975838
 
 ---
 
