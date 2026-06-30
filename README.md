@@ -16,6 +16,9 @@ Turning data into actionable insights using Python, SQL, Power BI, Machine Learn
 <a href="https://github.com/Shreya883986">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<a href="https://www.hackerrank.com/profile/sg3975838">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
 </p>
 
 ---
@@ -128,6 +131,18 @@ AI-powered background removal web application with authentication, cloud storage
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
 
 ---
+## Computer Vision
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge)
+
+---
+
+## Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+---
 
 ## Databases
 
@@ -142,6 +157,9 @@ AI-powered background removal web application with authentication, cloud storage
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -153,6 +171,28 @@ AI-powered background removal web application with authentication, cloud storage
 - Apache Airflow  
 - Cloud Data Engineering  
 - Machine Learning Model Deployment  
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Shreya883986&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya883986&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreya883986&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 Coding Profiles
+
+<p align="center">
+<a href="https://www.hackerrank.com/profile/sg3975838">
+<img src="https://img.shields.io/badge/HackerRank-Visit_Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+</p>
 
 ---
 
@@ -168,6 +208,19 @@ AI-powered background removal web application with authentication, cloud storage
 
 # 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shreya_Gupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-gupta-bb288126a)
+# 📫 Contact Me
 
-[![Email](https://img.shields.io/badge/Email-shreyagupta57723%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyagupta57723@gmail.com)
+<p align="center">
+<a href="https://www.linkedin.com/in/shreya-gupta-bb288126a">
+<img src="https://img.shields.io/badge/LinkedIn-Shreya_Gupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:shreyagupta57723@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-shreyagupta57723-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Shreya883986">
+<img src="https://img.shields.io/badge/GitHub-Shreya883986-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.hackerrank.com/profile/sg3975838">
+<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+</p>
