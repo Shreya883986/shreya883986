@@ -1,134 +1,104 @@
 <h1 align="center">Hi 👋, I'm Shreya Gupta</h1>
 
-<h3 align="center">
-Aspiring Data Analyst | Business Intelligence Enthusiast | Data Science Graduate
-</h3>
+<h3 align="center">Aspiring Data Analyst | Business Intelligence Enthusiast | Data Science Graduate</h3>
 
 <p align="center">
-Turning data into actionable insights through analytics, visualization, machine learning, and data engineering.
+Turning data into actionable insights using Python, SQL, Power BI, Machine Learning, and Data Engineering.
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/shreya-gupta-bb288126a">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:shreyagupta57723@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://github.com/Shreya883986">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="YOUR_RESUME_LINK">
-<img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
-🎓 BCA (Honours) Graduate specializing in **Data Science**
+I am a BCA (Honours) Data Science graduate with a strong interest in **Data Analytics, Business Intelligence, Machine Learning, SQL, Power BI, and Data Engineering**.
 
-📊 Passionate about solving real-world business problems using data analytics.
-
-💡 Interested in:
-
-- Data Analytics
-- Business Intelligence
-- Data Engineering
-- Machine Learning
-- Data Visualization
-- Predictive Analytics
-
-🚀 Currently improving my skills in:
-
-- Advanced SQL
-- Data Warehousing
-- ETL Pipelines
-- Apache Airflow
-- Cloud Data Engineering
-- MLOps
+I enjoy working on end-to-end projects that include data cleaning, analysis, visualization, machine learning, database design, ETL pipelines, and dashboard development.
 
 ---
 
 # 🚀 Featured Projects
 
-## 🏪 AI-Powered Retail Shelf Intelligence Platform
+## 📊 Customer Churn Analysis
 
-Real-world retail analytics platform using Computer Vision, Machine Learning, FastAPI, PostgreSQL, ETL pipelines, and Power BI dashboards.
+End-to-end customer churn prediction project involving data cleaning, exploratory data analysis, machine learning models, and Power BI dashboarding.
 
-**Tech Stack**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
 
-`Python` `YOLO` `OpenCV` `FastAPI` `PostgreSQL`
-`Power BI` `Machine Learning`
-
-[![Repository](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](YOUR_RETAIL_REPO_LINK)
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shreya883986/customer-churn-analysis)
 
 ---
 
-## 📊 Customer Churn Analysis
+## 🏪 AI Retail Shelf Intelligence Platform
 
-End-to-end churn prediction project involving data cleaning, exploratory analysis, machine learning models, SQL analysis, and Power BI dashboards.
+AI-powered retail analytics platform designed to detect stock-outs, shelf compliance issues, pricing mismatches, and revenue leakage using computer vision and analytics.
 
-**Tech Stack**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-`Python`
-`Pandas`
-`NumPy`
-`Scikit-Learn`
-`PostgreSQL`
-`Power BI`
-
-[![Repository](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](YOUR_CHURN_REPO_LINK)
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shreya883986/AI-Powered-Retail-Shelf-Intelligence-Platform)
 
 ---
 
 ## 🛒 E-Commerce Data Analytics
 
-Business Intelligence project focused on customer behavior, sales trends, KPIs, and interactive Power BI dashboards.
+Business Intelligence project focused on sales analysis, customer behavior, revenue trends, KPIs, and interactive Power BI dashboards.
 
-**Tech Stack**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-0A66C2?style=for-the-badge)
 
-`Python`
-`SQL`
-`PostgreSQL`
-`Power BI`
-
-[![Repository](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](YOUR_ECOMMERCE_REPO_LINK)
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shreya883986/ecommerce-data-analytics)
 
 ---
 
 ## 🏗 SQL Data Warehouse Project
 
-Designed a PostgreSQL-based data warehouse using ETL pipelines, star schema, SQL optimization, and business analytics.
+PostgreSQL-based data warehouse project using ETL pipelines, star schema design, SQL queries, and business analytics.
 
-**Tech Stack**
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-FF9800?style=for-the-badge)
+![Data Warehouse](https://img.shields.io/badge/Data_Warehouse-4B0082?style=for-the-badge)
+![Star Schema](https://img.shields.io/badge/Star_Schema-6A5ACD?style=for-the-badge)
 
-`SQL`
-`PostgreSQL`
-`ETL`
-`Data Warehouse`
-
-[![Repository](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](YOUR_SQL_REPO_LINK)
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shreya883986/sql-dwh-project)
 
 ---
 
 ## 🎨 Fixi AI
 
-AI-powered background removal web application featuring authentication, cloud storage, and AI image processing.
+AI-powered background removal web application with authentication, cloud storage, image processing, and full-stack web development.
 
-**Tech Stack**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![AI APIs](https://img.shields.io/badge/AI_APIs-FF6F00?style=for-the-badge)
 
-`React`
-`TypeScript`
-`Supabase`
-`Cloudinary`
-`AI APIs`
-
-[![Repository](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](YOUR_FIXIAI_REPO_LINK)
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shreya883986/FixiAI)
 
 ---
 
@@ -147,77 +117,57 @@ AI-powered background removal web application featuring authentication, cloud st
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 
 ## Machine Learning
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
 
 ---
 
 ## Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
-
----
-
-## Data Engineering & Cloud
-
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud)
 
 ---
 
 ## Development Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shreya883986&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya883986&layout=compact&theme=tokyonight"/>
-
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
 # 📚 Currently Learning
 
-- Data Warehousing
-- Apache Airflow
-- ETL & ELT Pipelines
-- Advanced SQL
-- Cloud Data Engineering
-- MLOps
+- Advanced SQL  
+- Data Warehousing  
+- ETL Pipelines  
+- Apache Airflow  
+- Cloud Data Engineering  
+- Machine Learning Model Deployment  
 
 ---
 
-# 🤝 Open to Collaborate
+# 🤝 Open to Collaborate On
 
-- Data Analytics Projects
-- Business Intelligence Dashboards
-- SQL & PostgreSQL Projects
-- Machine Learning Applications
-- Open Source Data Projects
+- Data Analytics Projects  
+- Business Intelligence Dashboards  
+- SQL & PostgreSQL Projects  
+- Machine Learning Applications  
+- Open Source Data Projects  
 
 ---
 
-# 📫 Let's Connect
+# 📫 Contact Me
 
-⭐ If you like my work, feel free to connect with me on LinkedIn or explore my repositories.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shreya_Gupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-gupta-bb288126a)
+
+[![Email](https://img.shields.io/badge/Email-shreyagupta57723%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyagupta57723@gmail.com)
