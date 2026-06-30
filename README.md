@@ -208,8 +208,6 @@ AI-powered background removal web application with authentication, cloud storage
 
 # 📫 Contact Me
 
-# 📫 Contact Me
-
 <p align="center">
 <a href="https://www.linkedin.com/in/shreya-gupta-bb288126a">
 <img src="https://img.shields.io/badge/LinkedIn-Shreya_Gupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
